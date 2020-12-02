@@ -1,1 +1,1 @@
-print(“I’m planning to learn git conflicts resolution”)
+print("I’m planning to learn git conflicts resolution")
